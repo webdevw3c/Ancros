@@ -1,5 +1,10 @@
 # Ancros
 
+## Ссылка на веб версию
+
+<code>[ancros.web][https://webdevw3c.github.io/ancros.web/]
+</code>
+
 ## Устанавливаем зависимости
 
 `npm i`
