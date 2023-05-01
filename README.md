@@ -2,8 +2,7 @@
 
 ## Ссылка на веб версию
 
-<code>[ancros.web][https://webdevw3c.github.io/ancros.web/]
-</code>
+**[ancros.web](https://webdevw3c.github.io/ancros.web/)**
 
 ## Устанавливаем зависимости
 
